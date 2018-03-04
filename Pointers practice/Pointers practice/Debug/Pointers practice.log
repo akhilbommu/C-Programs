@@ -1,0 +1,9 @@
+﻿  Pointers practice.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers practice\pointers practice\pointers practice.cpp(7): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers practice\pointers practice\pointers practice.cpp(9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers practice\pointers practice\pointers practice.cpp(15): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers practice\pointers practice\pointers practice.cpp(17): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers practice\pointers practice\pointers practice.cpp(20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers practice\pointers practice\pointers practice.cpp(22): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  Pointers practice.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Pointers practice\Debug\Pointers practice.exe
+  Pointers practice.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Pointers practice\Debug\Pointers practice.pdb (Full PDB)

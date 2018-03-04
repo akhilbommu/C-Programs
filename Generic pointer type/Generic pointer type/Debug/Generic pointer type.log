@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Generic pointer type.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\generic pointer type\generic pointer type\generic pointer type.cpp(7): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\generic pointer type\generic pointer type\generic pointer type.cpp(11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+  Generating Code...
+  Generic pointer type.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Generic pointer type\Debug\Generic pointer type.exe
+  Generic pointer type.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Generic pointer type\Debug\Generic pointer type.pdb (Full PDB)

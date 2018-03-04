@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Address of operaror.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\address of operaror\address of operaror\address of operaror.cpp(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Address of operaror.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Address of operaror\Debug\Address of operaror.exe
+  Address of operaror.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Address of operaror\Debug\Address of operaror.pdb (Full PDB)

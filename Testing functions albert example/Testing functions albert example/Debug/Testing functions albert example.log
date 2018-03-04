@@ -1,0 +1,5 @@
+﻿  Testing functions albert example.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\testing functions albert example\testing functions albert example\testing functions albert example.cpp(4): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int **'
+c:\users\akhil bommu\documents\visual studio 2015\projects\testing functions albert example\testing functions albert example\testing functions albert example.cpp(10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  Testing functions albert example.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Testing functions albert example\Debug\Testing functions albert example.exe
+  Testing functions albert example.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Testing functions albert example\Debug\Testing functions albert example.pdb (Full PDB)

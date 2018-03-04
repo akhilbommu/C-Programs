@@ -1,0 +1,5 @@
+﻿  Maximum of array using pointers.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\maximum of array using pointers\maximum of array using pointers\maximum of array using pointers.cpp(6): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\maximum of array using pointers\maximum of array using pointers\maximum of array using pointers.cpp(12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  Maximum of array using pointers.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Maximum of array using pointers\Debug\Maximum of array using pointers.exe
+  Maximum of array using pointers.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Maximum of array using pointers\Debug\Maximum of array using pointers.pdb (Full PDB)

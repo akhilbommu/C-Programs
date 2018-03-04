@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: PrimeNumbers1, Configuration: Debug Win32 ------
+1>  PrimeNumbers1.cpp
+1>LINK : fatal error LNK1168: cannot open c:\users\akhil bommu\documents\visual studio 2015\Projects\PrimeNumbers1\Debug\PrimeNumbers1.exe for writing
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

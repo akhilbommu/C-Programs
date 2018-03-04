@@ -1,0 +1,7 @@
+﻿  Towers of hanoi.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\towers of hanoi\towers of hanoi\towers of hanoi.cpp(13): warning C4101: 'B': unreferenced local variable
+c:\users\akhil bommu\documents\visual studio 2015\projects\towers of hanoi\towers of hanoi\towers of hanoi.cpp(13): warning C4101: 'A': unreferenced local variable
+c:\users\akhil bommu\documents\visual studio 2015\projects\towers of hanoi\towers of hanoi\towers of hanoi.cpp(13): warning C4101: 'C': unreferenced local variable
+c:\users\akhil bommu\documents\visual studio 2015\projects\towers of hanoi\towers of hanoi\towers of hanoi.cpp(10): warning C4715: 'towerOfHanoi': not all control paths return a value
+  Towers of hanoi.vcxproj -> C:\Users\Akhil Bommu\Documents\Visual Studio 2015\Projects\Towers of hanoi\Debug\Towers of hanoi.exe
+  Towers of hanoi.vcxproj -> C:\Users\Akhil Bommu\Documents\Visual Studio 2015\Projects\Towers of hanoi\Debug\Towers of hanoi.pdb (Full PDB)

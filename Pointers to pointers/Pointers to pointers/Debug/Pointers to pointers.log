@@ -1,0 +1,5 @@
+﻿  Pointers to pointers.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers to pointers\pointers to pointers\pointers to pointers.cpp(12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers to pointers\pointers to pointers\pointers to pointers.cpp(14): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  Pointers to pointers.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Pointers to pointers\Debug\Pointers to pointers.exe
+  Pointers to pointers.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Pointers to pointers\Debug\Pointers to pointers.pdb (Full PDB)

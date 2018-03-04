@@ -1,0 +1,7 @@
+﻿  Alphabet Pattern.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\alphabet pattern\alphabet pattern\alphabet pattern.cpp(6): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\akhil bommu\documents\visual studio 2015\projects\alphabet pattern\alphabet pattern\alphabet pattern.cpp(6): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\akhil bommu\documents\visual studio 2015\projects\alphabet pattern\alphabet pattern\alphabet pattern.cpp(6): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\akhil bommu\documents\visual studio 2015\projects\alphabet pattern\alphabet pattern\alphabet pattern.cpp(6): note: this argument is used as a buffer size
+  Alphabet Pattern.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Alphabet Pattern\Debug\Alphabet Pattern.exe
+  Alphabet Pattern.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Alphabet Pattern\Debug\Alphabet Pattern.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Finding nCr.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\finding ncr\finding ncr\finding ncr.cpp(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Finding nCr.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Finding nCr\Debug\Finding nCr.exe
+  Finding nCr.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Finding nCr\Debug\Finding nCr.pdb (Full PDB)

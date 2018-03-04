@@ -1,0 +1,6 @@
+﻿  Problem1 on arrays.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\problem1 on arrays\problem1 on arrays\problem1 on arrays.cpp(35): warning C4101: 'prev_output': unreferenced local variable
+c:\users\akhil bommu\documents\visual studio 2015\projects\problem1 on arrays\problem1 on arrays\problem1 on arrays.cpp(35): warning C4101: 'output': unreferenced local variable
+c:\users\akhil bommu\documents\visual studio 2015\projects\problem1 on arrays\problem1 on arrays\problem1 on arrays.cpp(20): warning C4715: 'findDouble': not all control paths return a value
+  Problem1 on arrays.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Problem1 on arrays\Debug\Problem1 on arrays.exe
+  Problem1 on arrays.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Problem1 on arrays\Debug\Problem1 on arrays.pdb (Full PDB)

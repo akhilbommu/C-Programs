@@ -1,0 +1,5 @@
+﻿  Pointers.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers\pointers\pointers.cpp(10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\pointers\pointers\pointers.cpp(10): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+  Pointers.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Pointers\Debug\Pointers.exe
+  Pointers.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\Pointers\Debug\Pointers.pdb (Full PDB)

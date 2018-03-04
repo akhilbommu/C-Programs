@@ -1,0 +1,7 @@
+﻿  Problem on switch case and functions.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\problem on switch case and functions\problem on switch case and functions\problem on switch case and functions.cpp(10): error C3861: 'menu': identifier not found
+c:\users\akhil bommu\documents\visual studio 2015\projects\problem on switch case and functions\problem on switch case and functions\problem on switch case and functions.cpp(14): error C3861: 'largest': identifier not found
+c:\users\akhil bommu\documents\visual studio 2015\projects\problem on switch case and functions\problem on switch case and functions\problem on switch case and functions.cpp(16): error C3861: 'smallest': identifier not found
+c:\users\akhil bommu\documents\visual studio 2015\projects\problem on switch case and functions\problem on switch case and functions\problem on switch case and functions.cpp(18): error C3861: 'sum': identifier not found
+c:\users\akhil bommu\documents\visual studio 2015\projects\problem on switch case and functions\problem on switch case and functions\problem on switch case and functions.cpp(20): error C3861: 'average': identifier not found
+c:\users\akhil bommu\documents\visual studio 2015\projects\problem on switch case and functions\problem on switch case and functions\problem on switch case and functions.cpp(65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
