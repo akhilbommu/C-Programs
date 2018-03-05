@@ -1,0 +1,5 @@
+﻿  BasicsOfCharacterArrayUsingPointers.cpp
+c:\users\akhil bommu\documents\visual studio 2015\projects\basicsofcharacterarrayusingpointers\basicsofcharacterarrayusingpointers\basicsofcharacterarrayusingpointers.cpp(120): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\akhil bommu\documents\visual studio 2015\projects\basicsofcharacterarrayusingpointers\basicsofcharacterarrayusingpointers\basicsofcharacterarrayusingpointers.cpp(122): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  BasicsOfCharacterArrayUsingPointers.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\BasicsOfCharacterArrayUsingPointers\Debug\BasicsOfCharacterArrayUsingPointers.exe
+  BasicsOfCharacterArrayUsingPointers.vcxproj -> c:\users\akhil bommu\documents\visual studio 2015\Projects\BasicsOfCharacterArrayUsingPointers\Debug\BasicsOfCharacterArrayUsingPointers.pdb (Full PDB)
